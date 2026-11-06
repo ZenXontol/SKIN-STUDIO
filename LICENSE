@@ -1,0 +1,32 @@
+GTA SA Skin Studio - Proprietary License / All Rights Reserved
+
+Copyright (c) 2026 Zen (zensatoru-ops). All rights reserved.
+
+This software, including its source code, documentation, artwork (character
+images and animations) and the bundled weight model data (together, the
+"Software"), is the exclusive property of the copyright holder.
+
+1. Use. You may install and use the officially released APK of the Software
+   for personal, non-commercial purposes at no charge.
+2. Restrictions. Without prior written permission from the copyright holder
+   you may not: (a) copy, modify, merge, or create derivative works of the
+   Software; (b) decompile, disassemble or reverse engineer the APK, except
+   where applicable law expressly allows it despite this restriction;
+   (c) sell, rent, sublicense or redistribute the Software or its parts;
+   (d) re-upload the APK to other sites or repackage it under another name.
+3. Your models. Files you create or export with the Software (e.g. DFF files)
+   remain yours. You are responsible for having the rights to the models and
+   textures you import. The Software contains no GTA San Andreas game assets.
+4. Third-party components. The Software uses open-source libraries (AndroidX,
+   Jetpack Compose, Kotlin) under their own licenses; see NOTICE.md. Those
+   licenses are not changed by this one.
+5. Earlier versions. Versions published earlier under the GNU GPL v3 remain
+   available under that license to those who received them. This license
+   applies to all versions released after the date of this change.
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND. THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE, INCLUDING LOSS OF DATA OR
+   GAME FILES, ARISING FROM ITS USE. The Software is beta software.
+7. GTA San Andreas is a trademark/property of Rockstar Games. This project is
+   unofficial and not affiliated with or endorsed by Rockstar Games.
+
+Contact: see README.md.
