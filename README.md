@@ -15,10 +15,10 @@ GTA SA Skin Studio adalah aplikasi Android untuk mengolah model karakter (skin/p
 - Multi-format Import — Membuka DFF, TXD, OBJ (+MTL), dan FBX.
 - 3D Model Viewer — Melihat model dengan dukungan tekstur TXD, PNG, dan TGA.
 - Auto-Rig — Memasang rig humanoid standar GTA SA secara otomatis (33 frame, 32 bone).
-- Automatic Weighting — Membantu mengatur bobot mesh agar mengikuti pergerakan tulang.
+- Automatic Weighting — Membantu mengatur weight mesh agar mengikuti pergerakan tulang.
 - Rig Testing — Menguji gerakan karakter menggunakan animasi "ped.ifp".
 - DFF Export — Mengekspor model dengan Skin PLG ke folder "ZenTools".
-- Mobile-friendly UI — Tampilan minimalis, tema gelap/terang, serta dukungan bahasa Indonesia dan English.
+- Mobile-friendly UI — Tampillan my waifu 🥰
 
 🔄 How It Works
 
